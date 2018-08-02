@@ -1,20 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="Aleksandr">
-	<META NAME="CREATED" CONTENT="20180514;72300000000000">
-	<META NAME="CHANGEDBY" CONTENT="Aleksandr">
-	<META NAME="CHANGED" CONTENT="20180731;85500000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
+<STYLE TYPE="text/css">
 	<!--
 		@page { margin-left: 1in; margin-right: 0.79in; margin-top: 1in; margin-bottom: 0.5in }
 		@page:first { }
@@ -22,8 +6,6 @@
 		A:link { color: #2e653e; so-language: zxx }
 	-->
 	</STYLE>
-</HEAD>
-<BODY LANG="en-US" LINK="#2e653e" DIR="LTR">
 <P ALIGN=LEFT STYLE="margin-bottom: 0in; line-height: 100%"><FONT FACE="Candara, serif"><FONT SIZE=7><FONT COLOR="#42ba97"><FONT SIZE=6 STYLE="font-size: 28pt"><SPAN LANG="ru-RU"><B>Техническое
 задание </B></SPAN></FONT></FONT><FONT COLOR="#42ba97"><FONT SIZE=6 STYLE="font-size: 28pt"><B>abz</B></FONT></FONT><FONT COLOR="#42ba97"><FONT SIZE=6 STYLE="font-size: 28pt"><SPAN LANG="ru-RU"><B>.</B></SPAN></FONT></FONT><FONT COLOR="#42ba97"><FONT SIZE=6 STYLE="font-size: 28pt"><B>agency</B></FONT></FONT></FONT></FONT></P>
 <P STYLE="margin-bottom: 0.11in"><FONT FACE="Times New Roman, serif"><FONT SIZE=4><SPAN LANG="ru-RU">Разработка
@@ -2564,5 +2546,3 @@ Form::</SPAN></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Courier New,
 </P>
 <P STYLE="margin-bottom: 0.11in"><BR><BR>
 </P>
-</BODY>
-</HTML>
